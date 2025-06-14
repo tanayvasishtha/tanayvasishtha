@@ -10,7 +10,7 @@ I'm a Computer Science Engineering student at KIIT University with expertise in 
 ![](https://nirzak-streak-stats.vercel.app/?user=tanayvasishtha&theme=aura&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tanayvasishtha&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Dev Quote
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 ---
 [![](https://visitcount.itsvg.in/api?id=tanayvasishtha&icon=3&color=0)](https://visitcount.itsvg.in)
