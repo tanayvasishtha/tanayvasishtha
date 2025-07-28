@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a Computer Science Engineering student at KIIT University with expertise in AI/ML, Blockchain technology, and Software Development. Passionate about exploring the intersection of technology and society, I leverage my technical knowledge and creative approach to develop innovative solutions that make a positive impact.<br><br>Currently in my third year of B.Tech (2022-2026), I maintain an 8.3 GPA while actively pursuing research, internships, and leadership opportunities. I balance my technical development with creative pursuits like graphic design, video editing, and photography.
+I'm a Computer Science Engineering student at KIIT University with expertise in AI/ML, Blockchain technology, and Software Development. Passionate about exploring the intersection of technology and society, I leverage my technical knowledge and creative approach to develop innovative solutions that make a positive impact.<br><br>Currently in my fourth year of B.Tech (2022-2026), I maintain an 8.3 GPA while actively pursuing research, internships, and leadership opportunities. I balance my technical development with creative pursuits like graphic design, video editing, and photography.
 
 
 ## 🌐 Socials:
